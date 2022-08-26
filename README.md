@@ -1,7 +1,7 @@
 # Draggable HTML Elements
 
 drag and drop html elements. simple JavaScript code which can drag and drop the elements in the html document.
-#HTML
+# HTML
 <hr/>
 <pre>
 &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
@@ -31,7 +31,7 @@ drag and drop html elements. simple JavaScript code which can drag and drop the 
 </pre>
 div element with mover id you can place multiple mover elements in the documents.
 
-#CSS
+# CSS
 
 ```
 body {
@@ -61,9 +61,9 @@ body {
   color: #fff;
 }
 ```
-###simple style of the elements 
+### simple style of the elements 
 
-#JavaScript
+# JavaScript
 
 #### the javascript is the main part of the draggable elements. 
 
