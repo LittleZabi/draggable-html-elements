@@ -3,7 +3,7 @@
 drag and drop html elements. simple JavaScript code which can drag and drop the elements in the html document.
 <hr/>
 #HTML
-```
+```HTML
 <link rel="stylesheet" href="style.css" />
 <div class="wrapper">
   <div id="mover">
