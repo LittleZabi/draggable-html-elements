@@ -1,34 +1,34 @@
 # Draggable HTML Elements
 
 drag and drop html elements. simple JavaScript code which can drag and drop the elements in the html document.
-<hr/>
 #HTML
-```HTML
-<link rel="stylesheet" href="style.css" />
-<div class="wrapper">
-  <div id="mover">
-    <div id="mover-header">Grab from here</div>
-    <span>
+<hr/>
+<pre>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;div id=&quot;mover&quot;&gt;
+    &lt;div id=&quot;mover-header&quot;&gt;Grab from here&lt;/div&gt;
+    &lt;span&gt;
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem qui
       nesciunt placeat rem exercitationem modi ipsa similique perspiciatis
       dolorum aperiam rerum, id amet quaerat quisquam hic. Animi esse neque
       nisi!
-    </span>
-  </div>
-</div>
-<div id="mover">
-    <div id="mover-header">Grab from here</div>
-    <span>
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&quot;mover&quot;&gt;
+    &lt;div id=&quot;mover-header&quot;&gt;Grab from here&lt;/div&gt;
+    &lt;span&gt;
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem qui
       nesciunt placeat rem exercitationem modi ipsa similique perspiciatis
       dolorum aperiam rerum, id amet quaerat quisquam hic. Animi esse neque
       nisi!
-    </span>
-  </div>
-</div>
-<script src="index.js"></script>
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-```
+</pre>
 div element with mover id you can place multiple mover elements in the documents.
 
 #CSS
