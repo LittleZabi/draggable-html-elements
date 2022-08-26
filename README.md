@@ -4,7 +4,6 @@ drag and drop html elements. simple JavaScript code which can drag and drop the 
 <hr/>
 #HTML
 ```
-<pre>
 <link rel="stylesheet" href="style.css" />
 <div class="wrapper">
   <div id="mover">
@@ -28,7 +27,7 @@ drag and drop html elements. simple JavaScript code which can drag and drop the 
   </div>
 </div>
 <script src="index.js"></script>
-</pre>
+
 ```
 div element with mover id you can place multiple mover elements in the documents.
 
